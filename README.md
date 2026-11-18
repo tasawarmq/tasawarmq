@@ -1,50 +1,24 @@
 # Tasawar Iqbal
 
-I am a postdoctoral researcher at the Institute of Natural Sciences, Shanghai Jiao Tong University. I completed my PhD in Applied Mathematics at Macquarie University, Australia, in 2025.
+I am a postdoctoral researcher at Shanghai Jiao Tong University, China. I completed my PhD in Applied Mathematics at Macquarie University, Australia, in 2025.
 
-My research focuses on low-Reynolds-number fluid mechanics, particularly Stokes and Brinkman flows, microbial swimming, and fluid transport through porous and confined environments.
+My research focuses on low-Reynolds-number hydrodynamics, Stokes and Brinkman flows, microbial swimming, and transport in porous and confined geometries.
 
-I develop analytical and numerical models to investigate these problems, with an emphasis on checking model predictions against known limiting cases and physical constraints.
-
-## Research interests
-
-- Low-Reynolds-number hydrodynamics
-- Microbial swimming and flagellar propulsion
-- Stokes and Brinkman flows
-- Transport through porous and confined geometries
-- Hydrodynamic interactions near fluid interfaces
-- Mathematical modelling and scientific computing
-
-## Computational methods
-
-My work involves asymptotic methods, surface-integral approaches, and numerical calculations.
-
-I use Python, MATLAB, and Mathematica for mathematical modelling, numerical verification, and analysing model predictions.
+I use analytical and numerical methods, including asymptotic analysis, surface-integral methods, Python, MATLAB and Mathematica.
 
 ## Publications
 
-**1. Hydrodynamics constrain choanoflagellate collar geometry**
+1. **Hydrodynamics constrain choanoflagellate collar geometry**  
+   *Physical Review Fluids* **11**, 063102 (2026).  
+   https://doi.org/10.1103/vzxt-rpf8
 
-Tasawar Iqbal, Catherine Penington, Christian Thomas, and Lyndon Koens.
+2. **A Taylor swimming sheet under a finite Brinkman layer**  
+   *Physical Review Fluids* **10**, 074102 (2025).  
+   https://doi.org/10.1103/s7jz-7k79
 
-*Physical Review Fluids* **11**, 063102 (2026).
+## Code
 
-[Read paper](https://doi.org/10.1103/vzxt-rpf8)
+- [Brinkman-Layer-Taylor-Sheet](https://github.com/tasawarmq/Brinkman-Layer-Taylor-Sheet) — Mathematica programs associated with our 2025 paper.
+- [brinkman-channel-demo](https://github.com/tasawarmq/brinkman-channel-demo) — Python implementation of Brinkman flow between parallel plates.
 
-**2. Taylor swimming sheet under a finite Brinkman layer**
-
-Tasawar Iqbal, Catherine Penington, Christian Thomas, and Lyndon Koens.
-
-*Physical Review Fluids* **10**, 074102 (2025).
-
-[Read paper](https://doi.org/10.1103/s7jz-7k79)
-
-## Research code
-
-I plan to share selected numerical examples related to fluid mechanics and mathematical modelling.
-
-Code from ongoing or collaborative projects will only be shared after checking publication requirements and permissions.
-
-## Academic profile
-
-[ORCID: 0000-0003-1375-8411](https://orcid.org/0000-0003-1375-8411)
+ORCID: https://orcid.org/0000-0003-1375-8411
